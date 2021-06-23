@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <H2><i>Hey, I am Barun</i></H2>
 
-I am senior softeare engineer.
+I am a senior software engineer at Morgan Stanley. Previously worked on HCL, Oracle and SunTec Business Solutions.  
 
 <H3>My values </H3>
 

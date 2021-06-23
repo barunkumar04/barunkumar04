@@ -1,4 +1,4 @@
-
+![Header](green_grass.jpg "Header")
 <!--
 **barunkumar04/barunkumar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<H2><i>Hey, I am Barun</i></H2>
+<H2><i>Hey there!</i></H2>
 
-I am a senior software engineer at Morgan Stanley. Previously worked on HCL, Oracle and SunTec Business Solutions.  
+I'm a senior software engineer focused on backend development at <strong><a href="https://www.morganstanley.com">Morgan Stanley</a></strong>. Previously worked with <a href="https://www.hcl.com">HCL</a>, <a href="https://www.oracle.com">Oracle</a> and <a href="https://www.suntecgroup.com">SunTec Business Solutions</a>.  
+
+I have completed MCA from <a href="https://www.cusat.ac.in">Cochin Un</a>
+
+
 
 <H3>My values </H3>
 

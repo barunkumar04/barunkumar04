@@ -20,9 +20,10 @@ I'm a adaptive and solution-oriented software engineer. Currently I am working a
 
 I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> with MCA degree in 2021, with 7.85 CGPA. My professional journey started same year, I joined SunTec Business Solutions from college placement.
 
+
 <br>
 
-## Tech Stack
+## 🛠️Tech Stack
 - 👩‍💻 Programming Languages, Framework and tools
   
     ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor)&nbsp;
@@ -43,18 +44,19 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
 
 <br>
 
-## 🛠️Tech Stack
+## 👨 More about me 
+- 
+
 
 <br>
-<H3>My values </H3>
 
-<H3>How I work </H3>
-
-<H3>Get in touch </H3>
-
-<br>
-<H3> My GitHub Stats </H3>
+## 📊My GitHub Stats
   <img  src="https://github-readme-stats.vercel.app/api?username=barunkumar04&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" alt="Something wrong in pulling stats!">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=barunkumar04&theme=dark" width="48%" >
 
+<br>
 
+## ✨ Fun fact 
+- ada
+
+<hr>

@@ -37,7 +37,13 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
     <img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure" title="Azure" width="7%" />
 
 ## 👨More about me 
-- 
+- I am from India and currently based in Bengaluru, Karnataka.
+- I am strong headed towards making better version of myself continiously, personally and professionally. 
+    - For professional growth, I am learning Frontend technologies (in aspiration of being a full stack developer) and brushing up my problem solving skill with help of practicing datastructures and algorithms.
+    - For personal growth, I am inclulating habit of reading books, learning about personal finance etc.
+- My peer and collegues says, I am empathtic, resposible, technical, resourceful, organized and polite.
+- I am a shy person but humorous as well 😇
+- I am nature lover and like to explore natural places. I learned driving in late 2018 and covered around 40K KMs behind the wheels to explored placed like Ooty, Goa, Mysuru, Balamuri Falls, muthathi falls, Mekedatu falls, Bannerghatta Biological Park and few more places.
 
 ## ✨ Fun fact 
 - The picture in header one of my mobile click photo. Since, I am a nature lover, I like to click such photos. 🌞🌾

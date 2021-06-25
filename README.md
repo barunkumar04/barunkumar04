@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm a adaptive and solution-oriented software engineer. Currently working at <strong><a href="https://www.morganstanley.com">Morgan Stanley</a></strong>. Previously worked with <a href="https://www.hcl.com">HCL</a>, <a href="https://www.oracle.com">Oracle</a> and <a href="https://www.suntecgroup.com">SunTec Business Solutions Pvt. Ltd.</a>  
 
-I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> with MCA degree in 2021, with 7.85 CGPA. My professional journey started same year, I joined SunTec Business Solutions from college placement.
+I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> with MCA degree in 2021, with 7.85 CGPA. I joined <a href="https://www.suntecgroup.com">SunTec Business Solutions Pvt. Ltd.</a> same year.
 
 ## 🛠️Tech Stack
 - 👩‍💻 Programming Languages, Framework and tools

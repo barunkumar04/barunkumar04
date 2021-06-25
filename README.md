@@ -48,7 +48,7 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
 - I am nature lover and like to explore natural places. I learned driving in late 2018 and covered around 40K KMs behind the wheels to explored placed like Ooty, Goa, Mysuru, Balamuri Falls, muthathi falls, Mekedatu falls, Bannerghatta Biological Park and few more places.
 
 ## ✨ Fun fact 
-- The picture in header one of my mobile click photo. Since, I am a nature lover, I like to click such photos. 🌞🌾
+- The picture in header one of my mobile click photo. I am a nature lover, I like to click such photos. 🌞🌾
 - If you like this, there are few more such clicks 👇😊 
   <details>
     <summary><i>The mighty one</i></summary>

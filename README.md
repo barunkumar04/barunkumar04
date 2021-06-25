@@ -50,12 +50,6 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
 
 <br>
 
-## 📊My GitHub Stats
-  <img  src="https://github-readme-stats.vercel.app/api?username=barunkumar04&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" alt="Something wrong in pulling stats!">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=barunkumar04&theme=dark" width="48%" >
-
-<br>
-
 ## ✨ Fun fact 
 - The picture in header one of my mobile click photo. Since, I am a nature lover, I like to click such photos. 🌞🌾
 - If you like this, there are few more such clicks 👇😊 
@@ -66,7 +60,7 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
   </details>
   
   <details>
-    <summary><i>Blissful/i></summary>
+    <summary><i>Blissful</i></summary>
     <br>
     <img align="center" alt="Blissfulness" src="BarunClicks/Blissfulness.jpg" />
   </details>
@@ -90,4 +84,10 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
   </details>  
 -   
 
+<br>
+
+## 📊My GitHub Stats
+  <img  src="https://github-readme-stats.vercel.app/api?username=barunkumar04&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" alt="Something wrong in pulling stats!">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=barunkumar04&theme=dark" width="48%" >
+  
 <hr>

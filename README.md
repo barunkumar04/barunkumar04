@@ -1,4 +1,4 @@
-![Header](green_grass.jpg "Header")
+![Header](BarunClicks/ThousandSwards.jpg "Header")
 <!--
 **barunkumar04/barunkumar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -62,8 +62,32 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
   <details>
     <summary><i>The mighty one</i></summary>
     <br>
-    <img align="center" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+    <img align="center" alt="The Mighty One" src="BarunClicks/TheMightyOne.jpg" />
   </details>
-  -   
+  
+  <details>
+    <summary><i>Blissful/i></summary>
+    <br>
+    <img align="center" alt="Blissfulness" src="BarunClicks/Blissfulness.jpg" />
+  </details>
+  
+  <details>
+    <summary><i>Edge</i></summary>
+    <br>
+    <img align="center" alt="Edge" src="BarunClicks/AtTheEdge.jpg" />
+  </details>
+  
+  <details>
+    <summary><i>Chidiya aur chand</i></summary>
+    <br>
+    <img align="center" alt="ChidiyaAurChand" src="BarunClicks/ChidiyaAurChand.jpg" />
+  </details>
+  
+  <details>
+    <summary><i>Cloud Partition</i></summary>
+    <br>
+    <img align="center" alt="CloudPartition" src="BarunClicks/CloudPartition.jpg" />
+  </details>  
+-   
 
 <hr>

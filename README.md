@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # <i>Hey! I am Barun. Welcome to my GitHub!</i>
 
-I'm a adaptive and solution-oriented software engineer. Currently I am working at <strong><a href="https://www.morganstanley.com">Morgan Stanley</a></strong>. Previously worked with <a href="https://www.hcl.com">HCL</a>, <a href="https://www.oracle.com">Oracle</a> and <a href="https://www.suntecgroup.com">SunTec Business Solutions Pvt. Ltd.</a>  
+I'm a adaptive and solution-oriented software engineer. Currently working at <strong><a href="https://www.morganstanley.com">Morgan Stanley</a></strong>. Previously worked with <a href="https://www.hcl.com">HCL</a>, <a href="https://www.oracle.com">Oracle</a> and <a href="https://www.suntecgroup.com">SunTec Business Solutions Pvt. Ltd.</a>  
 
 I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> with MCA degree in 2021, with 7.85 CGPA. My professional journey started same year, I joined SunTec Business Solutions from college placement.
 
@@ -57,6 +57,11 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
 <br>
 
 ## ✨ Fun fact 
-- ada
+- The picture in header one of my mobile click photo. Since, I am a nature lover, I like to click such photos. 🌞🌾
+- If you like this, there are few more 
+  <details>
+    <summary>Click here for more photos 👇</summary>
+  </details>
+  -   
 
 <hr>

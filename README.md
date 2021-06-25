@@ -24,8 +24,9 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
 - 👩‍💻 Programming Languages, Framework and tools
 
     ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor)&nbsp;
-    ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
-    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; 
+    ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash&logoColor)&nbsp;
+    ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=ApacheSpark&logoColor)&nbsp;     
+    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor)&nbsp; 
     
     ![SpringBatch](https://img.shields.io/badge/-Spring%20Batch-05122A?style=flat&logo=SpringBatch&logoColor)&nbsp;
     ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=SpringBoot&logoColor)&nbsp;
@@ -38,7 +39,7 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
 
 ## 👨More about me 
 - I am from India and currently based in Bengaluru, Karnataka.
-- Perseverance is one of the key attribute in me. 
+- One key attribute in me is - Perseverance. 
 - I consistently work towards making better version of myself, personally and professionally. 
     - For professional growth, Currenlty I am learning Frontend technologies (in aspiration of being a full stack developer) and brushing up my problem solving skill with help of practicing datastructures and algorithms.
     - For personal growth, I am inclulating habit of reading books, learning about personal finance etc.
@@ -81,6 +82,6 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
 
 ## 📊My GitHub Stats
   <img  src="https://github-readme-stats.vercel.app/api?username=barunkumar04&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" alt="Something wrong in pulling stats!">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=barunkumar04&theme=dark" width="48%" >
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=barunkumar04&theme=gotham" width="48%" >
   
 <hr>

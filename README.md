@@ -20,12 +20,9 @@ I'm a adaptive and solution-oriented software engineer. Currently working at <st
 
 I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> with MCA degree in 2021, with 7.85 CGPA. My professional journey started same year, I joined SunTec Business Solutions from college placement.
 
-
-<br>
-
 ## 🛠️Tech Stack
 - 👩‍💻 Programming Languages, Framework and tools
-  
+
     ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor)&nbsp;
     ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; 
@@ -35,19 +32,12 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
     
     ![AppDynamics](https://img.shields.io/badge/-AppDynamics-05122A?style=flat&logo=AppDynamics&logoColor)&nbsp;
     ![jConsole](https://img.shields.io/badge/-jConsole-05122A?style=flat&logo=jConsole&logoColor)&nbsp;
+- ☁️ Cloud      
     
-    
-- ☁️ Cloud
-      
     <img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure" title="Azure" width="7%" />
 
-<br>
-
-## 👨 More about me 
+## 👨More about me 
 - 
-
-
-<br>
 
 ## ✨ Fun fact 
 - The picture in header one of my mobile click photo. Since, I am a nature lover, I like to click such photos. 🌞🌾
@@ -81,8 +71,6 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
     <br>
     <img align="center" alt="CloudPartition" src="BarunClicks/CloudPartition.jpg" />
   </details>  
-
-<br>
 
 ## 📊My GitHub Stats
   <img  src="https://github-readme-stats.vercel.app/api?username=barunkumar04&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" alt="Something wrong in pulling stats!">

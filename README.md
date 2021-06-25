@@ -38,8 +38,9 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
 
 ## 👨More about me 
 - I am from India and currently based in Bengaluru, Karnataka.
-- I am strong headed towards making better version of myself continiously, personally and professionally. 
-    - For professional growth, I am learning Frontend technologies (in aspiration of being a full stack developer) and brushing up my problem solving skill with help of practicing datastructures and algorithms.
+- Perseverance is one of the key attribute in me. 
+- I consistently work towards making better version of myself, personally and professionally. 
+    - For professional growth, Currenlty I am learning Frontend technologies (in aspiration of being a full stack developer) and brushing up my problem solving skill with help of practicing datastructures and algorithms.
     - For personal growth, I am inclulating habit of reading books, learning about personal finance etc.
 - My peer and collegues says, I am empathtic, resposible, technical, resourceful, organized and polite.
 - I am a shy but humorous person 😇

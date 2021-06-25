@@ -58,9 +58,11 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
 
 ## ✨ Fun fact 
 - The picture in header one of my mobile click photo. Since, I am a nature lover, I like to click such photos. 🌞🌾
-- If you like this, there are few more 
+- If you like this, there are few more such clicks 👇😊 
   <details>
-    <summary>Click here for more photos 👇</summary>
+    <summary><i>The mighty one</i></summary>
+    <br>
+    <img align="center" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
   </details>
   -   
 

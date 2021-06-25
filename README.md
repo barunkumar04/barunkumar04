@@ -82,7 +82,6 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
     <br>
     <img align="center" alt="CloudPartition" src="BarunClicks/CloudPartition.jpg" />
   </details>  
--   
 
 <br>
 

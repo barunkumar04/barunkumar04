@@ -39,8 +39,7 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
     
 - ☁️ Cloud
       
-    <img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure"
-    title="Azure" width="10%" />
+    <img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure" title="Azure" width="7%" />
 
 <br>
 

@@ -37,7 +37,7 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
     
     <img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure" title="Azure" width="7%" />
 
-## 👨More about me 
+## 👨‍💼More about me 
 - I am from India and currently based in Bengaluru, Karnataka.
 - One key attribute in me is - Perseverance. 
 - I consistently work towards making better version of myself, personally and professionally. 

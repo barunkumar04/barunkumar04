@@ -1,4 +1,4 @@
-![Header](BarunClicks/ThousandSwards.jpg "Header")
+![Header](BarunClicks/ThousandSwards.jpg "Thousand Swards")
 <!--
 **barunkumar04/barunkumar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

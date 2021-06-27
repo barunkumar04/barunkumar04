@@ -45,7 +45,7 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
     - For personal growth, I am inclulating habit of reading books, learning about personal finance etc.
 - My peer and collegues says, I am empathtic, resposible, technical, resourceful, organized and polite.
 - I am a shy but humorous person 😇
-- I am nature lover and like to explore natural places. I learned driving in late 2018 and covered around 40K KMs behind the wheels to explored placed like Ooty, Goa, Mysuru, Balamuri Falls, muthathi falls, Mekedatu falls, Bannerghatta Biological Park and few more places.
+- I am nature lover and like to explore natural places. I have explored placed like Ooty, Goa, Mysuru, Balamuri Falls, Muthathi falls, Mekedatu falls, Bannerghatta Biological Park and few more places.
 
 ## ✨ Fun fact 
 - The picture in header one of my mobile click photo. I am a nature lover, I like to click such photos. 🌞🌾
@@ -83,5 +83,8 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
 ## 📊My GitHub Stats
   <img  src="https://github-readme-stats.vercel.app/api?username=barunkumar04&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" alt="Something wrong in pulling stats!">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=barunkumar04&theme=gotham" width="48%" >
-  
+
+## 📃Certifications
+  - Microsift Azure Fundamentals
+  - Big data - from Dataflair
 <hr>

@@ -48,7 +48,7 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
 - I am nature lover and like to explore natural places. Self drove to explored placed like Ooty, Goa, Mysuru, Kotilingeshwara, Balamuri falls, Muthathi falls, Mekedatu falls, Bannerghatta Biological Park and few more places.
 
 ## ✨ Fun fact 
-- The picture in header one of my mobile click photo 🌞🌾
+- The picture in header one of my mobile clicked photo 🌞🌾
 - If you like this, there are few more such clicks 👇😊 
   <details>
     <summary><i>The mighty one</i></summary>

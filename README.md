@@ -44,7 +44,7 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
     - For professional growth, Currenlty I am learning Frontend technologies (in aspiration of being a full stack developer) and brushing up my problem solving skill with help of practicing datastructures and algorithms.
     - For personal growth, I am inclulating habit of reading books, learning about personal finance etc.
 - My peer and collegues says, I am organized, resposible, technical, resourceful, empathtic and polite.
-- I am a shy but humorous person 😇
+- I am bit shy but humorous as well 😇
 - I am nature lover and like to explore natural places. Self drove to explored placed like Ooty, Goa, Mysuru, Kotilingeshwara, Balamuri falls, Muthathi falls, Mekedatu falls, Bannerghatta Biological Park and few more places.
 
 ## ✨ Fun fact 

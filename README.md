@@ -49,7 +49,7 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
 
 ## ✨ Fun fact 
 - The photographer inside me awakens, when I buy a new smart phone :)
-- The picture in header one of my mobile clicked photo 🌞🌾
+- The picture in header one of my mobile clicked photo 🌞🌾. Captioned as - "Thousand swards"
 - If you liked that, there are few more such clicks 👇😊 
   <details>
     <summary><i>The mighty one</i></summary>

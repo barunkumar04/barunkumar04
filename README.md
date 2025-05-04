@@ -24,6 +24,7 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
 
 ## 🛠️Tech Stack
 - 👩‍💻 Programming Languages, Framework and tools
+-           
           • Java • Cloud Computing - AWS • REST APIs • Microservices
         • Spring Boot • Spring Data JPA • Spring Batch • PL/SQL
         • System design • PoC • Jenkin • Terraform
@@ -93,6 +94,7 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=barunkumar04&theme=gotham" width="48%" >
 
 ## 📃Certifications
+  - AWS practitioner
   - Microsift Azure Fundamentals
   - Big data - from Dataflair
 <hr>

@@ -36,7 +36,7 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
     ![AppDynamics](https://img.shields.io/badge/-AppDynamics-05122A?style=flat&logo=AppDynamics&logoColor)&nbsp;
     ![jConsole](https://img.shields.io/badge/-jConsole-05122A?style=flat&logo=jConsole&logoColor)&nbsp;
 - ☁️ Cloud      
-    
+    <img src="https://www.neudesic.com/wp-content/uploads/AWS.png" alt="AWS" title="AWS" width="7%" />
     <img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure" title="Azure" width="7%" />
 
 ## 👨‍💼More about me 

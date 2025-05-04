@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# <i>Hey! I am Barun. Welcome to my GitHub!</i>
+# <i>Hey! I am Barun. Welcome!</i>
 
 Currently working at <strong><a href="https://www.jpmorgan.com">J.P. Morgan</a></strong>. Previously worked with <a href="https://www.morganstanley.com">Morgan Stanley</a>, <a href="https://www.hcl.com">HCL</a>, <a href="https://www.oracle.com">Oracle</a> and <a href="https://www.suntecgroup.com">SunTec Business Solutions Pvt. Ltd.</a>  
 
 I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> with MCA degree in 2012, with 7.85 CGPA. I joined <a href="https://www.suntecgroup.com">SunTec Business Solutions Pvt. Ltd.</a> same year.
+
+
 
 ## 🛠️Tech Stack
 - 👩‍💻 Programming Languages, Framework and tools
@@ -38,14 +40,11 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
     <img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure" title="Azure" width="7%" />
 
 ## 👨‍💼More about me 
-- Born and raised in Bihar. Moved to Kerala for Post Graduation, worked there for another 4.5 years. Currently based in Bengaluru, India.
+- Born and raised in Bihar. Moved to Kerala for Post Graduation, worked there for ~4 years. And, currently based out of Bengaluru, India.
 - One key attribute in me is - Perseverance. 
-- I consistently work towards making better version of myself, personally and professionally. 
-    - For professional growth, Currenlty I am learning Frontend technologies (in aspiration of being a full stack developer) and brushing up my problem solving skill by practicing datastructures and algorithms problems.
-    - For personal growth, I am inclulating habit of reading books, learning about personal finance etc.
 - My peer and collegues says, I am organized, resposible, technical, resourceful, empathtic and polite.
-- I am a shy person but humorous as well 😇
-- I am nature lover and like to explore natural places. Self drove to explored placed like Ooty, Goa, Mysuru, Kotilingeshwara, Balamuri falls, Muthathi falls, Mekedatu falls, Bannerghatta Biological Park and few more places.
+- I am nature lover. I love driving and exploring places with friends and family.
+- I enjoy spending my free time with my kid (4 yo), exploring places, playing sports like badminton and TT.
 
 ## ✨ Fun fact 
 - The photographer inside me awakens, when I buy a new smart phone :)

@@ -29,10 +29,8 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
     ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash&logoColor)&nbsp;
     ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=ApacheSpark&logoColor)&nbsp;     
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor)&nbsp; 
-    
     ![SpringBatch](https://img.shields.io/badge/-Spring%20Batch-05122A?style=flat&logo=SpringBatch&logoColor)&nbsp;
     ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=SpringBoot&logoColor)&nbsp;
-    
     ![AppDynamics](https://img.shields.io/badge/-AppDynamics-05122A?style=flat&logo=AppDynamics&logoColor)&nbsp;
     ![jConsole](https://img.shields.io/badge/-jConsole-05122A?style=flat&logo=jConsole&logoColor)&nbsp;
 - ☁️ Cloud      
@@ -48,7 +46,7 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
 
 ## ✨ Fun fact 
 - The photographer inside me awakens, when I buy a new smart phone :)
-- The picture in header one of my mobile clicked photo 🌞🌾. Captioned as - "Thousand swards"
+- The picture in header one of my mobile clicked photo. Captioned this - "Thousand swards" - resembles, isn't it?
 - If you liked that, there are few more such clicks 👇😊 
   <details>
     <summary><i>The mighty one</i></summary>

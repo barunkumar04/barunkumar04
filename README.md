@@ -24,6 +24,10 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
 
 ## 🛠️Tech Stack
 - 👩‍💻 Programming Languages, Framework and tools
+          • Java • Cloud Computing - AWS • REST APIs • Microservices
+        • Spring Boot • Spring Data JPA • Spring Batch • PL/SQL
+        • System design • PoC • Jenkin • Terraform
+        • Python • AI/ML • LLM & RAG • GenAI
 
     ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor)&nbsp;
     ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash&logoColor)&nbsp;

@@ -24,23 +24,12 @@ I post graduated from <a href="https://www.cusat.ac.in">Cochin University</a> wi
 
 ## 🛠️Tech Stack
 - 👩‍💻 Programming Languages, Framework and tools
-  - Java, Python
-          • Java • Cloud Computing - AWS • REST APIs • Microservices
-        • Spring Boot • Spring Data JPA • Spring Batch • PL/SQL
-        • System design • PoC • Jenkin • Terraform
-        • Python • AI/ML • LLM & RAG • GenAI
-
-    ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor)&nbsp;
-    ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash&logoColor)&nbsp;
-    ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=ApacheSpark&logoColor)&nbsp;     
-    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor)&nbsp; 
-    ![SpringBatch](https://img.shields.io/badge/-Spring%20Batch-05122A?style=flat&logo=SpringBatch&logoColor)&nbsp;
-    ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=SpringBoot&logoColor)&nbsp;
-    ![AppDynamics](https://img.shields.io/badge/-AppDynamics-05122A?style=flat&logo=AppDynamics&logoColor)&nbsp;
-    ![jConsole](https://img.shields.io/badge/-jConsole-05122A?style=flat&logo=jConsole&logoColor)&nbsp;
-- ☁️ Cloud      
-    <img src="https://www.neudesic.com/wp-content/uploads/AWS.png" alt="AWS" title="AWS" width="7%" />
-    <img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure" title="Azure" width="7%" />
+  - Java, Python, PL/SQL
+  - Spring Boot, Spring Batch, Spring Data JPA
+  - REST API, Microservices, Event Driven
+  - AWS, Azure
+  - Machine Learning, LLM, RAG, AI Agent
+  - System Design, PoCs
 
 ## 👨‍💼More about me 
 - Born and raised in Bihar. Moved to Kerala for Post Graduation, worked there for ~4 years. And, currently based out of Bengaluru, India.
